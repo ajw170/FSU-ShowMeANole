@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">COP4656 - Assignment 2</string>
+    <string name="ChangeButton">Show Me A Gator!</string>
+    <string name="ImgDescription1">Nole Image</string>
+    <string name="ShowMeANole">Show Me A Nole!</string>
+    <string name="ShowMeAGator">Show Me A Gator!</string>
+</resources>
